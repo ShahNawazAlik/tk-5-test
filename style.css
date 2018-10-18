@@ -1,0 +1,19 @@
+
+/*.row{
+	display: flex;
+	flex-wrap: wrap;
+}*/
+.main-div{
+display: flex;
+
+
+}
+/*.row{
+	display: inline-block;
+}*/
+.main-div2{
+	display: flex;
+	width: 80%;
+	align-items: center;
+	justify-content: center;
+}
